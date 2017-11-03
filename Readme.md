@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Олег Северов](https://up.htmlacademy.ru/htmlcss/19/user/560273).
-* Наставник: `Никита Рогатнев`.
+* Наставник: [Никита Рогатнев](https://htmlacademy.ru/profile/nikita_rogatnev)
 
 ---
 
